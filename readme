@@ -1,2 +1,0 @@
-docker run --rm -v "${PWD}/data:/app/data" boc-scraper
- docker login -u "sivaji973" -p "iLYW63ZR.M5&" docker.io  

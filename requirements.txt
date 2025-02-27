@@ -1,0 +1,6 @@
+selenium 
+beautifulsoup4
+pandas
+webdriver-manager
+ibm-cos-sdk
+python-dotenv
